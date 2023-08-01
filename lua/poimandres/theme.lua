@@ -401,7 +401,7 @@ function M.get(config)
     TelescopeNormal = { fg = p.text },
     TelescopePromptNormal = { fg = p.text },
     TelescopePromptPrefix = { fg = p.blueGray1 },
-    TelescopeSelection = { fg = p.text, bg = p.blueGray1 },
+    TelescopeSelection = { fg = p.text, bg = p.blueGray2 },
     TelescopeSelectionCaret = { fg = p.pink2, bg = p.blueGray1 },
     TelescopeTitle = { fg = p.blueGray2 },
 
